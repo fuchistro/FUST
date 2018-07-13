@@ -484,24 +484,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* Get Started Section
 --------------------------------*/
-
-.frase{
-  position: absolute;
-  top: 24%;
-  left:18%;
-  color: white;
-  background: rgba(0, 0, 0, 0.41);
-}
-
-
-#fust-h2{
-  height: 200px;
-  width: 400px;
-  text-align: center;
-  padding-top: 45px;
-  font-size: 100px;
-}
-
 #about {
   background: #fff;
   padding: 80px 0;
